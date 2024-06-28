@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665771093390",
+    "project_id": "megz-app-95d60",
+    "storage_bucket": "megz-app-95d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665771093390:android:12fa026d9a9b914c3948df",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_bpVvPzSKxxp1KjDd1BkaGNcU747k20Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665771093390:android:6dd58ad2859af70c3948df",
+        "android_client_info": {
+          "package_name": "com.example.majid_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_bpVvPzSKxxp1KjDd1BkaGNcU747k20Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
